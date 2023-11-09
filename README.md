@@ -1,5 +1,5 @@
 <h3 align="center">Este es un proyecto desarrollado por estudiantes de Tecnico en Ingenieria en Computacion de la Universidad Don Bosco El Salvador</h3>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Universidad_don_bosco.jpg/270px-Universidad_don_bosco.jpg" alt="css3" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Universidad_don_bosco.jpg/270px-Universidad_don_bosco.jpg" alt="css3" width="80" height="80"/>
 <h3 align="left">Este proyecto es una solución integral diseñada para el manejo y optimización de finanzas personales. Desarrollada utilizando el versátil lenguaje de programación PHP, esta plataforma web ofrece una interfaz intuitiva y fácil de usar que permite a los usuarios hacer un seguimiento de sus ingresos, gastos y ahorros de manera eficiente.</h3>
 <p align="left">
 </p>
