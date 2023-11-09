@@ -18,7 +18,7 @@
 				<div class="carousel-item active" style="height: 80vh">
 					<img src="img/1.jpg" class="d-block w-100" alt="...">
 					<div class="carousel-caption d-none d-md-block">
-						<h5 class="display-4 mb-4 font-weight-bold">BOOTSTRAP 4</h5>
+						<h5 class="display-4 mb-4 font-weight-bold">bootstrap 4</h5>
 						<p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
 					</div>
 				</div>
