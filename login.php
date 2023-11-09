@@ -23,7 +23,7 @@
       <div class="login-content">
          <form method="post" action="">
             <img src="img/avatar.svg">
-            <h2 class="title">Bienvenido</h2>
+            <h2 class="title">BIENVENIDO</h2>
             <?php
             include("conexion.php");
             include("controlador.php");
